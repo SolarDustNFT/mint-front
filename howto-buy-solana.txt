@@ -1,0 +1,28 @@
+1. Get a Solana wallet
+Metamask and other Ethereum-like wallets won’t work for Solana.
+We are advising to use Fantom Wallet.
+Phantom is a best option for an in-browser extension for Chrome, Firefox, Brave, etc ... and also it has native NFT support.
+You can see yours NFTs directly in the wallet and don't need to visit NFT marketplaces or some others sites for it.
+When setting up a new wallet, Phantom will give you a 12-word seed phrase to write down or store somewhere, in case you need to restore your wallet at some point. Set a password, confirm, and then you’re in.
+(Note: This seed phrase is the key to unlocking your funds. Anyone with this phrase can access them, so keep it in a safe place and don’t share it with anyone who you don’t want accessing your wallet.)
+
+2) Get some SOL.
+Our minting price is 2 SOL but we advise to have at least 2.1 SOL in the wallet for networks fee.
+With Phantom, there are a few different ways to get the SOL coins into your wallet:
+
+- One option is simply to purchase Solana at an exchange and then send it to your wallet.
+For example:
+- Binance: https://www.binance.com/en/trade/SOL_USDT
+- KuCoin: https://trade.kucoin.com/SOL-USDT
+(full list of supported exchanges can be foud here: https://coinmarketcap.com/currencies/solana/markets/)
+
+Phantom also offers direct integration with cryptocurrency exchange FTX, making it easy to deposit funds held within that exchange
+- FTX: https://ftx.com/trade/SOL/USDT
+
+3. Mint NFT
+Once you have 2+ SOL in yours Fantom wallet, all you have to do:
+- go to our mint web-page https://elvensquad.solardust.io/
+- push the button "Connect Wallet"
+- wait till 7pm UTC
+And as soon as the  countdown timer expires, "mint" button will appear
+-Push "Mint" button, and approve the transaction in your wallet.
